@@ -1,0 +1,7 @@
+Declare int x=10
+Declare *p and let p=&x (p will represent the address of x which in this case is equal to 10)
+Print the value of the address pointed by p by printing *P.
+Print the value of x by using x.
+Print the address of x by using &x.
+Print the value of p using p.
+Print the address of p using &p.
